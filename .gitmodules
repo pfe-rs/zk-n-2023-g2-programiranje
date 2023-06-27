@@ -1,0 +1,4 @@
+[submodule "projekti/logisim/SDL2_image"]
+	path = projekti/logisim/SDL2_image
+	url = https://github.com/libsdl-org/SDL_image
+	branch = SDL2
