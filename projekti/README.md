@@ -1,0 +1,2 @@
+# ZK-N 2023 projekti (Grupa 2)
+Ovde se čuvaju projekti pravljeni od strane polaznika u drugoj grupi sa zimskog kampa 2023. godine. Projekti sa Pygame grupe su pravljeni u [Pygame](https://pygame.org/), dok su projekti sa Python grupe uglavnom pravljeni bez dodatnih biblioteka. Svaki polaznik je dobijao svoj projekat. Više detalja o svakom projektu pojedinačno možete pronaći u njihovim direktorijumima.

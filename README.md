@@ -1,0 +1,4 @@
+# ZK-N 2023 Python/Pygame programiranje (Grupa 2)
+Ovde se čuvaju materijali sa aktivnosti programiranja na drugoj grupi novih polaznika na zimskom kampu Veštačke inteligencije i robotike 2023. godine, kao i polaznički projekti. Materijali sa Python predavanja mogu se naći u `materijali/python/` direktorijumu, sa Pygame u `materijali/pygame/` direktorijumu a polaznički projekti se mogu naći u `projekti/` direktorijumu. Više detalja se može pronaći u tim direktorijumima.
+
+**Napomena:** [MIT licenca](./LICENSE) ovog repozitorijuma odnosi se na **izvorni kod** u njemu. Individualni polaznički projekti mogu sadržati materijal pod autorskim pravom drugih entiteta, uključen u repozitorijum pod [poštenom upotrebom](https://sr.wikipedia.org/wiki/%D0%9F%D0%BE%D1%88%D1%82%D0%B5%D0%BD%D0%B0_%D1%83%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B0).
